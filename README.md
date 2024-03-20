@@ -11,3 +11,5 @@
 - vacansy_procent.csv - Файл, получившийся в 4-м задании
 
 ### Как установить и запустить проект
+`git clone https://github.com/NickO-O/Practika.git`
+Запускайте файлы по очереди от task1.py до task6.py
